@@ -1,11 +1,10 @@
-![Profile views](https://gpvc.arturio.dev/icomputercoding)
-[![Github](https://img.shields.io/github/followers/1902shubh?label=Follow&style=social)](https://github.com/icomputercoding)
-
-
-<img src="https://miro.medium.com/max/3200/0*fdcgLkFi3GdmNpWY">
-
 # Nmste 👋🏻 I am Vaibhav Wable!
-<h2 style="color:blue"> trying to write Programs For Android Apps</h2>
+[![Github](https://img.shields.io/github/followers/icomputercoding?label=Follow&style=social)](https://github.com/icomputercoding)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=icomputercoding">
+</a>
+
+<h2 style="color:blue"> Trying To Write Programs For Android Apps</h2>
 
 - 🔭 Working as Android development.
 - 🌱 Learning Android Development.
@@ -24,5 +23,25 @@
 
 ## Connect with Me 🤝🏻
 
-[![Website](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/ws.svg)](https://icomputercoding.in/) [![LinkedIn](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/li.svg)](https://www.linkedin.com/in/vaibhavwable/) [![GitHub](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/gh.svg)](https://github.com/icomputercoding) [![Facebook](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/fb.svg)](https://www.facebook.com/icomputercoding) [![Instagram](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/ig.svg)](https://instagram.com/icomputercoding)  [![Telegram](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/tg.svg)](https://t.me/icomputercoding) [![WhatsApp](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/wa.svg)](https://wa.me/message/DS6LXIFOPDGZM1)
+<p>
+  
+  <a href="https://www.linkedin.com/in/vaibhavwable/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/__vaibhav.06__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://icomputercoding.in">	
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/icomputercoding">	
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/icomputercoding">	
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://www.github.com/icomputercoding">	
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
